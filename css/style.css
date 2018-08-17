@@ -77,6 +77,9 @@ a:hover, a:active {
     padding: 3% 5%;   
     margin-top: 2%;
 }
+.read-more {
+    text-align: justify;
+}
 .aboutMainContent {
     line-height: 25px;
     border-radius: 5px;
@@ -110,6 +113,12 @@ a:hover, a:active {
     color: #999;
     font-size: 90%;
 }
+.post-image{
+    width: 50px; 
+    height: auto;
+    float: left;
+    margin-right: 10px;
+    }
 .top-sidebar {
     width: 21%;
     float: left;
